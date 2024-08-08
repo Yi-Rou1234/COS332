@@ -1,0 +1,26 @@
+?What is the capital of France?
+-London
+-Berlin
++Paris
+?What is the largest planet in our solar system?
+-Mercury
+-Venus
++Jupiter
+?Who is the author of "To Kill a Mockingbird"?
+-William Shakespeare
+-J.K. Rowling
++Harper Lee
+?Which country is known as the Land of the Rising Sun?
+-China
+-South Korea
++Japan
+?What is the tallest mountain in the world?
+-Mount Kilimanjaro
++Mount Everest
+-Mount Fuji
+-All of the above
+?Which of the following is not a primary color?
+-Red
+-Blue
+-Yellow
++None of the above
